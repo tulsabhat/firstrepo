@@ -2,34 +2,96 @@
 const poems = [
     {
         id: 1,
-        title: "The Road Not Taken",
-        author: "Robert Frost",
+        title: "Antim Udha",
+        author: "Tulsa Bhat",
         description: "A contemplative piece about choices and their consequences, exploring the paths we take in life and the difference they make.",
         image: "https://images.pexels.com/photos/1496373/pexels-photo-1496373.jpeg?auto=compress&cs=tinysrgb&w=800",
         background: "https://images.pexels.com/photos/1496373/pexels-photo-1496373.jpeg?auto=compress&cs=tinysrgb&w=1200",
-        text: `Two roads diverged in a yellow wood,<br>
-And sorry I could not travel both<br>
-And be one traveler, long I stood<br>
-And looked down one as far as I could<br>
-To where it bent in the undergrowth;<br><br>
+        text: `Bolna sakina vanna sakina <br>
+Aajhaii ni keii garna sakina||<br>
 
-Then took the other, as just as fair,<br>
-And having perhaps the better claim,<br>
-Because it was grassy and wanted wear;<br>
-Though as for that the passing there<br>
-Had worn them really about the same,<br><br>
 
-And both that morning equally lay<br>
-In leaves no step had trodden black.<br>
-Oh, I kept the first for another day!<br>
-Yet knowing how way leads on to way,<br>
-I doubted if I should ever be back.<br><br>
+Samaye sakidaii theyo<br>
+Antim uddha theyo<br>
+Mod 2 theyo<br>
+Parkhaye meraii theyo<br>
 
-I shall be telling this with a sigh<br>
-Somewhere ages and ages hence:<br>
-Two roads diverged in a wood, and I—<br>
-I took the one less traveled by,<br>
-And that has made all the difference.`
+Aama babu ko man aatidaii theyo<br>
+Nakaratmak bichar aayerako theyo<br>
+Uta mero sas rokedaii theyo<br>
+
+Siudo bhareyeko theyo <br>
+Rato kapadama sajayeyeko theyo<br>
+Baja bajeraheko theyo<br>
+Sabaiiko aakha rasaye raheko theyo|<br>
+
+
+
+
+
+Unko manko tukra tadidaii theyo<br>
+Sangeet gunjenaii raheko theyo|<br>
+Pauma payal, haat ma mehndi rwh rato chura theyo<br>
+Baja bajenaii raheko theyo||<br>
+ 
+Malie sajayeyeko theyo<br>
+Dolima rakheyeko theyo<br>
+Tara mero janti haina malami theyo|||<br>
+
+
+Dauraii daura bich khapiyeki theye<br>
+Aagniko pratichya ma theye <br>
+Rangin rangharu ujaddaii theye<br>
+Bojharu kam garaudaii theye<br>
+
+
+
+
+
+
+
+Aamako pida aashru bani jhareraheka theye<br>
+Buba chupchap theye<br>
+Samaj hereraheko theyo<br>
+Aafna ko kuranaii theyo<br>
+
+Aamako pida sor banerwhh nikliyo<br>
+Bubako sabda naii nikleyena<br>
+Aamako sor laii samajley pida bujexa<br>
+Sabdahin bubalaii doshi sunayexa<br>
+
+Bhaii ko aakha ma pailo choti aashru dekhey<br>
+Ma prati prem dekhey||<br>
+Dd rudaii hunuhunthyo <br>
+Ekchoti utherwhh dd vanedeuna vandaii hunuhunthyoo <br>
+
+
+
+
+Bhaii thulo vayesakexa <br>
+Sabai laii santona diyexa <br>
+Bubalaii eklaii royeko dekhexa <br>
+Bubako aakha ma pailo choti aashru dekhexa<br>
+
+     
+Sabaii bata tada vayesakeki theye<br>
+Nafarkeney garerwhh gayesakeki theye<br>
+Sabdahin mah sabaii chupchap hereraheki theye<br>
+ 
+Bhaii thulo vayexa<br>
+Gharko jimmebari batneyy vayexa<br>
+Ddko sathi banexa<br>
+Dukha Sukhama haat batauney vayexa<br>
+
+ 
+Aantim uddha ko aantim charan ma theye<br>
+Sath navaye smriti ma theye<br>
+Sarir maun theyo,aastityo baleko theyo<br>
+Batabaran chisidaii, sarir tatidaii theyo<br>
+
+Sabda sakisakeko theyo ma maun theye <br>
+Chitah ko jwala ma sunya vayerwhh ujjwalo baneki theye<br>
+        `
     },
     {
         id: 2,
