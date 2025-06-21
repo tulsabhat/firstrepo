@@ -6,7 +6,8 @@ const poems = [
         author: "Tulsa Bhat",
         description: " Beyogko maunata,samjhanako ujjwalo. Ek aatmako antim yatra, prem, pida rwh sandeshko gahiro katha.",    
      image: "ChatGPT Image Jun 21, 2025, 06_59_12 AM.png",
-        background: "https://images.pexels.com/photos/1496373/pexels-photo-1496373.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        background: "ChatGPT Image Jun 21, 2025, 06_59_12 AM.png",
+",
         text: `Bolna sakina vanna sakina <br>
 Aajhaii ni keii garna sakina||<br>
 
