@@ -5,7 +5,7 @@ const poems = [
         title: "Antim Udha",
         author: "Tulsa Bhat",
         description: " ",    
-     image: "https://images.pexels.com/photos/1496373/pexels-photo-1496373.jpeg?auto=compress&cs=tinysrgb&w=800",
+     image: "ChatGPT Image Jun 21, 2025, 06_59_12 AM.png",
         background: "https://images.pexels.com/photos/1496373/pexels-photo-1496373.jpeg?auto=compress&cs=tinysrgb&w=1200",
         text: `Bolna sakina vanna sakina <br>
 Aajhaii ni keii garna sakina||<br>
@@ -179,7 +179,7 @@ as a guide from beyond.`
         title: "Phenomenal Woman",
         author: "Maya Angelou",
         description: "A celebration of feminine power and self-confidence, embracing the beauty that comes from within and radiates outward.",
-        image: "https://images.pexels.com/photos/3785424/pexels-photo-3785424.jpeg?auto=compress&cs=tinysrgb&w=800",
+        image: "https://images.pexels.com/phot0",
         background: "https://images.pexels.com/photos/3785424/pexels-photo-3785424.jpeg?auto=compress&cs=tinysrgb&w=1200",
         text: `Pretty women wonder where my secret lies.<br>
 I'm not cute or built to suit a fashion model's size<br>
