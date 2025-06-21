@@ -10,23 +10,23 @@ const poems = [
         text: `Bolna sakina vanna sakina <br>
 Aajhaii ni keii garna sakina||<br>
 
-<br><br
+<br>
 Samaye sakidaii theyo<br>
 Antim uddha theyo<br>
 Mod 2 theyo<br>
 Parkhaye meraii theyo<br>
-<br><br
+<br>
 
 Aama babu ko man aatidaii theyo<br>
 Nakaratmak bichar aayerako theyo<br>
 Uta mero sas rokedaii theyo<br>
-<br><br
+<br>
 
 Siudo bhareyeko theyo <br>
 Rato kapadama sajayeyeko theyo<br>
 Baja bajeraheko theyo<br>
 Sabaiiko aakha rasaye raheko theyo|<br>
-<br><br
+<br>
 
 
 
@@ -36,19 +36,19 @@ Unko manko tukra tadidaii theyo<br>
 Sangeet gunjenaii raheko theyo|<br>
 Pauma payal, haat ma mehndi rwh rato chura theyo<br>
 Baja bajenaii raheko theyo||<br>
-<br><br
+<br>
  
 Malie sajayeyeko theyo<br>
 Dolima rakheyeko theyo<br>
 Tara mero janti haina malami theyo|||<br>
-<br><br
+<br>
 
 
 Dauraii daura bich khapiyeki theye<br>
 Aagniko pratichya ma theye <br>
 Rangin rangharu ujaddaii theye<br>
 Bojharu kam garaudaii theye<br>
-<br><br
+<br>
 
 
 
@@ -60,19 +60,19 @@ Aamako pida aashru bani jhareraheka theye<br>
 Buba chupchap theye<br>
 Samaj hereraheko theyo<br>
 Aafna ko kuranaii theyo<br>
-<br><br
+<br>
 
 Aamako pida sor banerwhh nikliyo<br>
 Bubako sabda naii nikleyena<br>
 Aamako sor laii samajley pida bujexa<br>
 Sabdahin bubalaii doshi sunayexa<br>
-<br><br
+<br>
 
 Bhaii ko aakha ma pailo choti aashru dekhey<br>
 Ma prati prem dekhey||<br>
 Dd rudaii hunuhunthyo <br>
 Ekchoti utherwhh dd vanedeuna vandaii hunuhunthyoo <br>
-<br><br
+<br>
 
 
 
@@ -81,26 +81,26 @@ Bhaii thulo vayesakexa <br>
 Sabai laii santona diyexa <br>
 Bubalaii eklaii royeko dekhexa <br>
 Bubako aakha ma pailo choti aashru dekhexa<br>
-<br><br
+<br>
 
      
 Sabaii bata tada vayesakeki theye<br>
 Nafarkeney garerwhh gayesakeki theye<br>
 Sabdahin mah sabaii chupchap hereraheki theye<br>
-<br><br
+<br>
  
 Bhaii thulo vayexa<br>
 Gharko jimmebari batneyy vayexa<br>
 Ddko sathi banexa<br>
 Dukha Sukhama haat batauney vayexa<br>
-<br><br
+<br>
 
  
 Aantim uddha ko aantim charan ma theye<br>
 Sath navaye smriti ma theye<br>
 Sarir maun theyo,aastityo baleko theyo<br>
 Batabaran chisidaii, sarir tatidaii theyo<br>
-<br><br
+<br>
 
 Sabda sakisakeko theyo ma maun theye <br>
 Chitah ko jwala ma sunya vayerwhh ujjwalo baneki theye<br>
