@@ -8,7 +8,7 @@ const poems = [
      image: "ChatGPT Image Jun 21, 2025, 06_59_12 AM.png",
         background: "bg.jpg",
         
-        text: `
+        text: ` 
  (एक छोरीको सम्झनामा)<br>
 बोल्न सकिन, भन्न सकिन/<br>
  अझैनि केही गर्न सकिन ||<br>
@@ -94,7 +94,7 @@ const poems = [
 
 <br>
 In Roman<br>
-<br>
+<br
         
 Bolna sakina vanna sakina <br>
 Aajhaii ni keii garna sakina||<br>
@@ -193,9 +193,58 @@ Batabaran chisidaii, sarir tatidaii theyo<br>
 
 Sabda sakisakeko theyo ma maun theye <br>
 Chitah ko jwala ma sunya vayerwhh ujjwalo baneki theye<br>
-<br><br>
-        `
+<br>
+       `
     }
+    ,
+    {
+        id: 2,
+        title: "Uhh koho??",
+        author: "Tulsa Bhat",
+        description: " ",    
+     image: "ChatGPT Image Jun 21, 2025, 06_59_12 AM.png",
+        background: "bg.jpg",
+        text:
+        `Achamaki xey, <br> 
+        Aakash ma chara dekhda khusi hunxey,<br>
+        Pinjarama kayed dekhda dhukhi,<br>
+'Aarubhanda beglaii xey ya bichitra??<br>
+<br>
+
+Sabaiilai aafno thanxey,<br>
+Sabaiilai Ramro garxey,<br>
+Aasha rakhxey aarubata-<br>
+Nirasa dainiki pauxey | <br>
+<br>
+
+Aaruko aakha padhe bibarad nikalxey,<br>
+Aafno aakha herna darauxey,<br>
+Aaruko nimti darpan banxey,<br>
+Aafu darpan aagi aauna darauxey |<br>
+<br>
+
+Sabailaii bishwashilo patra manxey,<br>
+Bishwash ghati aafai banxey,<br>
+Barambar Dhoka pauxey,<br>
+Teiini sabma bishwash garxey |<br>
+<br>
+
+
+"Uhh" leyy "uhh" lai prashna garxey,<br>
+Jabaf ma aarko prashna pauxey,<br>
+Darpan ma "uhh" dekhdina,<br>
+Mushkan ma pura "uhh" paudina |<br>
+<br>
+
+"Uhh" koho?? <br>
+Sayed chanchal, sayed aatrangi??<br>
+Khulla kitab ki rahasya maye kitab??<br>
+       `
+
+    }
+
+    
+        
 ];
 
 // DOM elements
