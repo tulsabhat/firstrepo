@@ -1,3 +1,4 @@
+
 // Poem data
 const poems = [
     {
@@ -6,7 +7,7 @@ const poems = [
         author: "तुलसा भाट",
         description: "वियोगको मौनता, सम्झनाको उज्यालो। एक आत्माको अन्तिम यात्रामा प्रेम, पीडा र सन्देशको गहिरो कथा।",    
      image: "ChatGPT Image Jun 21, 2025, 06_59_12 AM.png",
-        background: "bg.jpg",
+        background: "bgg.jpg",
         
         text: ` 
  (एक छोरीको सम्झनामा)<br>
