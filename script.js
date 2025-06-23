@@ -94,7 +94,7 @@ const poems = [
 
 <br>
 In Roman<br>
-<br
+<br>
         
 Bolna sakina vanna sakina <br>
 Aajhaii ni keii garna sakina||<br>
@@ -193,7 +193,7 @@ Batabaran chisidaii, sarir tatidaii theyo<br>
 
 Sabda sakisakeko theyo ma maun theye <br>
 Chitah ko jwala ma sunya vayerwhh ujjwalo baneki theye<br>
-<br><br
+<br><br>
         `
     }
 ];
