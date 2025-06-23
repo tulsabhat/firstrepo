@@ -266,7 +266,7 @@ body {
     font-family: 'Playfair Display', serif;
     font-size: 1.25rem;
     line-height: 1.8;
-    color: white;
+    color: black;
     text-align: left;
     max-width: 600px;
     margin: 0 auto;
@@ -284,6 +284,7 @@ body {
     padding: 32px 0;
     opacity: 0.8;
 }
+
 
 /* Animations */
 @keyframes fadeIn {
