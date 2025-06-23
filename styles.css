@@ -237,7 +237,6 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(255, 255, 255, 0.92);
     backdrop-filter: blur(2px);
 }
 
@@ -280,7 +279,7 @@ body {
 /* Footer */
 .footer {
     background: #1e293b;
-    color: white;
+    color: rgb(243, 239, 239);
     text-align: center;
     padding: 32px 0;
     opacity: 0.8;
