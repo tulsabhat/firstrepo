@@ -5,7 +5,7 @@ const poems = [
         title: " अन्तिम युद्ध",
         author: "तुल्सा भाट",
         description: "वियोगको मौनता, सम्झनाको उज्यालो। एक आत्माको अन्तिम यात्रामा प्रेम, पीडा र सन्देशको गहिरो कथा।",    
-     image: "ChatGPT Image Jun 21, 2025, 06_59_12 AM.png",
+     image: "behuli.png",
         background: "ChatGPT Image Jun 23, 2025, 05_02_17 AM.png",
         
         text: ` 
@@ -106,7 +106,7 @@ const poems = [
         title: "उ को हो??",
         author: "तुल्सा भाट",
         description: " आत्मसंशयसँगको सङ्घर्ष, पहिचानको खोजी र भावनात्मक द्वन्द्वको गहिरो यात्रा ",    
-     image: "ChatGPT Image Jun 21, 2025, 06_59_12 AM.png",
+     image: "koho img.png",
         background: "bg.jpg",
         text:
         `
