@@ -3,241 +3,155 @@ const poems = [
     {
         id: 1,
         title: " अन्तिम युद्ध",
-        author: "तुलसा भाट",
+        author: "तुल्सा भाट",
         description: "वियोगको मौनता, सम्झनाको उज्यालो। एक आत्माको अन्तिम यात्रामा प्रेम, पीडा र सन्देशको गहिरो कथा।",    
-     image: "ChatGPT Image Jun 21, 2025, 06_59_12 AM.png",
-        background: "ChatGPT Image Jun 23, 2025, 05_02_17 AM.png",
+     image: "behuli.png",
+        background: "fiar.avif",
         
         text: ` 
 बोल्न सकिन, भन्न सकिन<br>
-अझैनि केही गर्न सकिन ||<br>
+अझैनि केही गर्न सकिन <br>
 <br>
 
 समय सकिँदै थियो,<br>
-अन्तिम युद्ध थियो |<br>
- मोड़ दुई थियो,<br>
- पर्खाइ मेरै थियो ||<br>
+अन्तिम युद्ध थियो,<br>
+मोड़ दुई थियो,<br>
+पर्खाइ मेरै थियो <br>
  <br>
 
-आमा-बुबाको मन आत्तिँदै थियो,<br>
+आमाबुबाको मन आत्तिँदै थियो,<br>
 नकारात्मक विचार आइरहेको थियो,<br>
-उता मेरो सास रोकिँदै थियो ||<br>
+उता मेरो सास रोकिँदै थियो <br>
  <br>
 
 सिउँदो भरिएको थियो,<br>
 रातो कपडामा सजाइएको थियो,<br>
 बाजा बजिरहेको थियो,<br>
-सबैको आँखा रसाइरहेको थियो ||<br>
+सबैको आँखा रसाइरहेको थियो <br>
  <br>
 
 उनको मनको टुक्रा टाढिँदै थियो,<br>
-संगीत गुञ्जिरहेकै थियो<br>
+संगीत गुञ्जिनै रहेको थियो<br>
 पाऊँमा पायल, हातमा मेहन्दी र रातो चुरा थियो,<br>
-बाजा बजिरहेकै थियो ||<br>
+बाजा बजिनै रहेको थियो <br>
  <br>
 
 मलाई सजाएकी थियो,<br>
 डोलीमा राखेको थियो,<br>
-तर मेरो जन्ती हैन मलामी थियो |<br>
+तर मेरो जन्ती हैन मलामी थियो<br>
  <br>
 
-दौराभित्र खपिइरहेकी थिई <br>
-आगोको प्रतिक्षामा थिई,<br>
+दाउरौ दाउरा बिच खापिएकी थिए,<br>
+अग्नीको प्रतिक्षामा थिए,<br>
 रंगीन रंगहरू उजाडिँदै थिए,<br>
-बोझहरू कम गराउँदै थिए ||<br>
+बोझहरू कम गराउँदै थिए <br>
 <br>
 
-आमाको पीडा आँशु बनेर झरिरहेकै थिए,<br>
+
+आमाको पीडा आश्रु बनी झरिरहेका थिए,<br>
 बुबा चुपचाप थिए,<br>
 समाज हेरीरहेको थियो,<br>
-आफ्नैको कुरा नै थियो ||<br>
+आफ्नाको कुरा नै  थियो<br>
 <br>
 
-आमाको पीडा स्वर बनेर निस्कियो,<br>
-बुबाको शब्द नै ननिस्कियो,<br>
-आमाको स्वरलाई समाजले पीडा बुझ्यो,<br>
-शब्दविहीन बुबालाई दोषी ठानेछ ||<br>
+आमाको पीडा स्वर बनी निस्कियो,<br>
+बुबाको शब्द नै निस्कीएन, <br>
+आमाको स्वरलाई समाजले पीडा बुझेछ, <br>
+शब्दविहीन बुबालाई दोषी ठानेछ<br>
 <br>
 
-भाइको आँखामा पहिलो चोटि आँशु देखें,<br>
-मप्रति प्रेम देखें ||<br>
-दिदी रोइरहनु भएको थियो,<br>
-"एकचोटि उठेर दिदी भनेदेऊ" भन्दै हुनुहुन्थ्यो ||<br>
+भाइको आँखामा पहिलो चोटि आश्रु देखें,<br>
+म प्रति प्रेम देखें,<br>
+दिदी रुदै हुनुहुन्थ्यो, <br>
+एकचोटि उठेर "दिदी" भनीदेऊन भन्दै हुनुहुन्थ्यो <br>
+<br> 
 
-
-भाइ ठूलो भइसकेको छ,<br>
-सबैलाई सान्त्वना दिइसकेको छ,<br>
-बुबालाई एक्लै रोइरहेको देखें,<br>
-बुबाको आँखामा पहिलोचोटि आँशु देखें ||<br>
+भाइ ठूलो भइसकेछ,<br>
+सबैलाई सान्त्वना दिएछ,<br>
+बुबालाई एक्लै रोएको देखेछ,<br>
+बुबाको आँखामा पहिलोचोटि आश्रु देखेछ <br>
 <br>
 
 सबैबाट टाढा भइसकेकी थिई,<br>
 नफर्किने गरेर गइसकेकी थिई,<br>
-शब्दविहीन म, सबैलाई चुपचाप हेरेर बसेकी थिई ||<br>
+शब्दविहीन म, सबै चुपचाप हेरीरहेकी थिए <br>
 <br>
 
-भाइ ठूलो भइसकेको छ,<br>
-घरको जिम्मेवारी बोक्न थालेको छ,<br>
-दिदीको साथी बनेको छ,<br>
-दुखसुखमा साथ दिन थालेको छ ||<br>
+भाइ ठूलो भएछ,<br>
+घरको जिम्मेवारी बाट्ने भएछ,<br>
+दिदीको साथी बनेछ,<br>
+दुख:सुखमा हात बटाउने भएछ<br>
 <br>
+
 
 अन्तिम उद्धाको अन्तिम चरणमा थिएँ,<br>
 साथ नभए स्मृतिमा थिएँ,<br>
 शरीर मौन थियो, अस्तित्व बलिरहेको थियो,<br>
-वातावरण चिसिँदै, शरीर ततिँदै थियो ||<br>
+वातावरण चिसिँदै, शरीर ततिँदै थियो |<br>
 <br>
 
-शब्द सकिएको थियो, म मौन थिएँ<br>
+शब्द सकिसकेको थियो, म मौन थिएँ,<br>
 चिता को ज्वालामा शून्य भएर उज्यालो बनेकी थिएँ ||<br>
 
 <br>
-In Roman<br>
-<br
-        
-Bolna sakina vanna sakina <br>
-Aajhaii ni keii garna sakina||<br>
 
-<br>
-Samaye sakidaii theyo<br>
-Antim uddha theyo<br>
-Mod 2 theyo<br>
-Parkhaye meraii theyo<br>
-<br>
+`
 
-Aama babu ko man aatidaii theyo<br>
-Nakaratmak bichar aayerako theyo<br>
-Uta mero sas rokedaii theyo<br>
-<br>
-
-Siudo bhareyeko theyo <br>
-Rato kapadama sajayeyeko theyo<br>
-Baja bajeraheko theyo<br>
-Sabaiiko aakha rasaye raheko theyo|<br>
-<br>
-
-
-
-
-
-Unko manko tukra tadidaii theyo<br>
-Sangeet gunjenaii raheko theyo|<br>
-Pauma payal, haat ma mehndi rwh rato chura theyo<br>
-Baja bajenaii raheko theyo||<br>
-<br>
- 
-Malie sajayeyeko theyo<br>
-Dolima rakheyeko theyo<br>
-Tara mero janti haina malami theyo|||<br>
-<br>
-
-
-Dauraii daura bich khapiyeki theye<br>
-Aagniko pratichya ma theye <br>
-Rangin rangharu ujaddaii theye<br>
-Bojharu kam garaudaii theye<br>
-<br>
-
-
-
-
-
-
-
-Aamako pida aashru bani jhareraheka theye<br>
-Buba chupchap theye<br>
-Samaj hereraheko theyo<br>
-Aafna ko kuranaii theyo<br>
-<br>
-
-Aamako pida sor banerwhh nikliyo<br>
-Bubako sabda naii nikleyena<br>
-Aamako sor laii samajley pida bujexa<br>
-Sabdahin bubalaii doshi sunayexa<br>
-<br>
-
-Bhaii ko aakha ma pailo choti aashru dekhey<br>
-Ma prati prem dekhey||<br>
-Dd rudaii hunuhunthyo <br>
-Ekchoti utherwhh dd vanedeuna vandaii hunuhunthyoo <br>
-<br>
-
-
-
-
-Bhaii thulo vayesakexa <br>
-Sabai laii santona diyexa <br>
-Bubalaii eklaii royeko dekhexa <br>
-Bubako aakha ma pailo choti aashru dekhexa<br>
-<br>
-
-     
-Sabaii bata tada vayesakeki theye<br>
-Nafarkeney garerwhh gayesakeki theye<br>
-Sabdahin mah sabaii chupchap hereraheki theye<br>
-<br>
- 
-Bhaii thulo vayexa<br>
-Gharko jimmebari batneyy vayexa<br>
-Ddko sathi banexa<br>
-Dukha Sukhama haat batauney vayexa<br>
-<br>
-
- 
-Aantim uddha ko aantim charan ma theye<br>
-Sath navaye smriti ma theye<br>
-Sarir maun theyo,aastityo baleko theyo<br>
-Batabaran chisidaii, sarir tatidaii theyo<br>
-<br>
-
-Sabda sakisakeko theyo ma maun theye <br>
-Chitah ko jwala ma sunya vayerwhh ujjwalo baneki theye<br>
-<br>
-       `
     }
+    
     ,
+        
     {
         id: 2,
-        title: "Uhh koho??",
-        author: "Tulsa Bhat",
-        description: " ",    
-     image: "ChatGPT Image Jun 21, 2025, 06_59_12 AM.png",
+        title: "उ को हो??",
+        author: "तुल्सा भाट",
+        description: " आत्मसंशयसँगको सङ्घर्ष, पहिचानको खोजी र भावनात्मक द्वन्द्वको गहिरो यात्रा ",    
+     image: "koho img.png",
         background: "bg.jpg",
         text:
-        `Achamaki xey, <br> 
-        Aakash ma chara dekhda khusi hunxey,<br>
-        Pinjarama kayed dekhda dhukhi,<br>
-'Aarubhanda beglaii xey ya bichitra??<br>
+        `
+अचम्मकी छे,<br>
+आकाशमा चराहरु देख्दा खुसी हुन्छे,<br>
+पिंजडामा देख्दा दुःखी,<br>
+अरुभन्दा बेग्लै छे या विचित्र??<br>    
 <br>
 
-Sabaiilai aafno thanxey,<br>
-Sabaiilai Ramro garxey,<br>
-Aasha rakhxey aarubata-<br>
-Nirasa dainiki pauxey | <br>
+सबैलाई आफ्नो ठान्छे,<br>
+सबैलाई राम्रो गर्छे,<br>
+आशा राख्छे अरुबाट—<br>
+तर निराशा दैनिकी पाउँछे।<br>
 <br>
 
-Aaruko aakha padhe bibarad nikalxey,<br>
-Aafno aakha herna darauxey,<br>
-Aaruko nimti darpan banxey,<br>
-Aafu darpan aagi aauna darauxey |<br>
-<br>
-
-Sabailaii bishwashilo patra manxey,<br>
-Bishwash ghati aafai banxey,<br>
-Barambar Dhoka pauxey,<br>
-Teiini sabma bishwash garxey |<br>
+अरूको आँखा पढी विवरण निकाल्छे,<br>
+आफ्नो आँखा हेर्न डराउँछे,<br>
+अरूको निम्ती दर्पण बन्छे,<br>
+आफु दर्पण अगी आउन डराउँछे।<br>
 <br>
 
 
-"Uhh" leyy "uhh" lai prashna garxey,<br>
-Jabaf ma aarko prashna pauxey,<br>
-Darpan ma "uhh" dekhdina,<br>
-Mushkan ma pura "uhh" paudina |<br>
+सबैलाई विश्वासिलो पात्र मान्छे,<br>
+विश्वासघाती आफैं बन्छे,<br>
+बारम्बार धोका पाउँछे,<br>
+त्यैनी सबमा विश्वास गर्छे।<br>
 <br>
 
-"Uhh" koho?? <br>
-Sayed chanchal, sayed aatrangi??<br>
-Khulla kitab ki rahasya maye kitab??<br>
+"उ" ले "उ" लाई प्रश्न गर्छे,<br>
+जवाफमा अर्को प्रश्न पाउँछे,<br>
+दर्पणमा  "उ" देख्दिने,<br>
+मुस्कानमा पुरा "उ" भेट्दिने।<br>
+<br>
+
+"उ" को हो??<br>
+सायद चञ्चल, सायद आतरङ्गी,<br>
+खुला किताब हो कि रहस्यमय ग्रन्थ,<br>
+
+कि रहस्य यात्रा??,<br>
+जसको अन्तिम पृष्ठ कहिल्यै खुल्दैन,<br>
+पहिचान खोज्दै हराएको आफैँमा,<br>
+"उ" ले "उ" भित्र एउटै आत्मा पाउँदैन <br>
+<br>
+
+        
        `
 
     }
