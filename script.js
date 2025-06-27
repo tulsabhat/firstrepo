@@ -109,7 +109,7 @@ const poems = [
         author: "तुल्सा भाट",
         description: " आत्मसंशयसँगको सङ्घर्ष, पहिचानको खोजी र भावनात्मक द्वन्द्वको गहिरो यात्रा ",    
      image: "koho img.png",
-        background: "bg.jpg",
+        background: "koho img.png",
         text:
         `
 अचम्मकी छे,<br>
