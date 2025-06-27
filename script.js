@@ -157,7 +157,7 @@ const poems = [
        `
 
     }
-
+,
     {
         id: 3,
         title: "Lost in my own Delulu",
@@ -334,5 +334,5 @@ document.addEventListener('mouseleave', () => {
     document.querySelectorAll('.poem-card').forEach(card => {
         card.style.transform = '';
     });
-    author: "तुल्सा भाट"
+   
 });
