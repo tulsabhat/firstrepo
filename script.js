@@ -91,9 +91,11 @@ const poems = [
 <br>
 
 शब्द सकिसकेको थियो, म मौन थिएँ,<br>
-चिता को ज्वालामा शून्य भएर उज्यालो बनेकी थिएँ ||<br>
+चिता को ज्वालामा शून्य भएर उज्
+यालो बनेकी थिएँ ||<br>
 
-<br>
+<r
+>
 
 `
 
@@ -150,6 +152,55 @@ const poems = [
 पहिचान खोज्दै हराएको आफैँमा,<br>
 "उ" ले "उ" भित्र एउटै आत्मा पाउँदैन <br>
 <br>
+
+        
+       `
+
+    }
+
+    {
+        id: 3,
+        title: "Lost in my own Delulu",
+        author: "Tulsa Bhat",
+        description: "The bittersweet world of unrequited love, obsession, and hopeful delusion",    
+     image: "delulu.png",
+   background: "delulu.png",
+        text:
+        `
+        Call me delulu, but he’s mine,<br>
+No,he hasn’t said it—cuz he just needs some time.<br>
+He’s my whole life, I’ll be his wife,<br>
+Manifesting vows in a second life.<br>
+<br>
+
+He posts a photos, I smile like crazy,<br>
+A flicker of hope in a world so hazy.<br>
+On stage, he says, “I love you all”,<br>
+I paused—felt that “you” was my private call.<br>
+<br>
+
+Call me crazy, call me blind,<br>
+I'm lost within my own mind.<br>
+But he’s mine — in dark or light,<br>
+In silent prayers and dreams at night.<br>
+<br>
+
+I read his captions like holy signs,<br>
+Decode his words between the lines.<br>
+A heart emoji? That’s my clue—<br>
+A hidden message shining through.<br>
+<br>
+
+Let the world call me insane,<br>
+But darling, delulu keeps me sane.<br>
+Laugh all you want—say it’s not real,<br>
+But I won't stop loving what I feel.<br>
+<br>
+
+In my world, he’s already mine—<br>
+A perfect lie I won't resign.<br>
+<br>
+
 
         
        `
@@ -283,4 +334,5 @@ document.addEventListener('mouseleave', () => {
     document.querySelectorAll('.poem-card').forEach(card => {
         card.style.transform = '';
     });
+    author: "तुल्सा भाट"
 });
