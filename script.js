@@ -109,7 +109,7 @@ const poems = [
         author: "तुल्सा भाट",
         description: " आत्मसंशयसँगको सङ्घर्ष, पहिचानको खोजी र भावनात्मक द्वन्द्वको गहिरो यात्रा ",    
      image: "koho img.png",
-        background: "koho img.png",
+        background: "bg.jpg",
         text:
         `
 अचम्मकी छे,<br>
@@ -160,6 +160,55 @@ const poems = [
 ,
     {
         id: 3,
+        title: "विषालु सम्झना",
+        author: "तुल्सा भाट",
+        description: " अतीतको विषले रचिएको वर्तमान।",    
+     image: "Tired...png",
+        background: "tired.jpegs",
+        text:
+        `
+उ थाकिसकी,<br>
+झूट देखी अगाईसकी,<br>
+सम्बन्धबाट टाढीसकी,<br>
+मान्छे देखी डराइसकी।<br>
+<br>
+
+बाल्यकाल उसले छोडिसकी,<br>
+आफू आफ्नै नजरबाट झरिसकी,<br>
+विश्वास गर्न छोडिसकी,<br>
+कठोर उ बनिसकी।<br>
+<br>
+
+कलम उसले छोडिसकी,<br>
+भीडबाट टाढीसकी,<br>
+सहर उसले छोडिसकी,<br>
+घना जंगल रोजिसकी।<br>
+<br>
+
+रङ्गीन रङहरू छोडिसकी,<br>
+कालो–सेतो रोजिसकी,<br>
+प्रेमबाट टाढीसकी,<br>
+धोका पाउन छोडिसकी।<br>
+<br>
+
+साथीहरूबाट अगाईसकी,<br>
+विकल्प बन्न छोडिसकी,<br>
+मित्रता पछिको राज जानिसकी,<br>
+प्रयोग हुन छोडिसकी।<br>
+<br>
+
+उ फेर्री सकी,<br>
+लामो कपाल काटिसकी,<br>
+परम्परागत उ आधुनिक भइसकी,<br>
+चट्याङ उ बनिसकी।<br>
+<br>
+        
+       `
+
+    }
+    ,
+    {
+        id: 4,
         title: "Lost in my own Delulu",
         author: "Tulsa Bhat",
         description: "The bittersweet world of unrequited love, obsession, and hopeful delusion",    
