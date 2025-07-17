@@ -213,7 +213,7 @@ const poems = [
         author: "तुल्सा भाट",
         description: "मायाले भरिएको, पीडा र आशाको कथा; साथीपन र समर्पणको अमूल्य यात्रा। ",    
      image: "embrace.png",
-        background: "combo.png",
+        background: "TENDER.png",
         text:
         `
 
