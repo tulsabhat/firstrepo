@@ -264,10 +264,158 @@ const poems = [
         
        `
 
+    },
+    /*  {
+        id: 5,
+        title: "Poii ko maya",
+        author: "तुल्सा भाट",
+        description: "मायाले भरिएको, पीडा र आशाको कथा; साथीपन र समर्पणको अमूल्य यात्रा। ",    
+     image: "delulu.png ",
+        background: " delulu.png",
+        text:
+        `
+        Malie mero poii ley kamta maya garxa,
+        Naya Naya kapada kini lyauxa,
+        Ghumauna naya naya thau ma lagxa,
+        Ramri dekheus vane makeup saman kini lyauxa,
+
+        Birami naporos vane gharko khana khuwauxa,
+        Sarir nadekheyos vane lamo kapada kini lyauxa,
+        Dheraii maya garxa ,
+        Kamta maya garxa,
+
+        Kailey ghati matwhh kailey khutta ma,
+        Kamta maya garxa,
+        Mero kapal man parauxa teasailey twhh lamo kapal pal vanxa,
+        Haptaii pixey parlour pathauxa,
+
+        Mako ramri "Ma" laii man parauxa,
+        Mero sundartama pagal hunxa,
+        Tesailey twhh ghar ma rakhxa,
+        Mero aakha ma moti dekhda kamta khusi hunxa,
+
+        Prem ko nishani xodxa,
+        Kahiley lauro twhh kahiley falam barshauxa,
+        Kahiley dhad twhh kahiley khutta rojxa,
+        Malie kamta man parauxa,
+
+        Aaru sanga najikim vane dhoka ma talcha lagauxa,
+        Aarumatwhh aakhai lagauna,
+    
+
+
+
+        
+
+        
+
+
+
+     
+     
+
+        
+       `
+
+    },*/
+    {
+        id: 6,
+        title: "बृद्द म",
+        author: "तुल्सा भाट",
+        description: " ",    
+     image: " old.png",
+        background: " old.png",
+        text:
+        `
+        कोही मेरो साहारा बनिदेऊन,<br>
+        म मानी प्रेम बर्षाइ देऊन,<br>
+        जवानीमा मेरो पछि लागेको तिमी,<br>
+        मेरो बृद्ध अवस्थाको लाठी बनिदेऊन।<br>
+        <br>
+
+        चराको संगीतमा रमाइरहेकी छु,<br>
+        भगवानको सहारामा बाँचिरहेकी छु,<br>
+        मानुष्यको विवेक हेरी हाँसिरहेकी छु,<br>
+        बेआवाज म कराउदै छु।<br>
+        <br>
+
+
+        आकाशको सुन्दरतामा रमाउदै छु,<br>
+        दूषित हावामा बाँचिरहेकी छु,<br>
+        हप्तामा एक दिन पूजी अरु दिन नकारिएकी छु ,<br>
+        झूटो, देखावटी प्रेमबाट अगाएकी छु।<br>
+        <br>
+
+
+
+        मैले सबै हेरिरहेकी छु,<br>
+        सबैलाई आफ्नै पारामा देखीरहेकी छु,<br>
+        प्रेमीहरूको मुस्कान हेरीरहेकी छु,<br>
+        यो भिडमा एक चेली रोएकी देखेकी छु।<br>
+        <br>
+
+
+
+        म बृद्द छु,<br>
+        तिम्रो प्रेमको प्रतीक्षामा छु,<br>
+        मृत्युको मुखमा छु,<br>
+        अझैनी बाँचिरहेकी छ | <br>
+        <br>  
+
+
+    
+        `
+
+    
+
+
+
+     
+     
+
+       }
+       ,
+    {
+        id: 7,
+        title: "किन तिमी, किन म?",
+        author: "Tulsa Bhat",
+        description: "सम्बन्धको मौनतामा हराएका प्रश्नहरू। माया, भ्रम र आत्मसंघर्षको गहिरो भाका।",    
+     image: "TMI.png",
+   background: "TMI.png",
+        text:
+        `
+        
+        किन, म बोल्न जरुरी छ र??,<br>
+        तिमीमानै हराउन जरुरी छ र??,<br>
+        तिम्रै अगीपछि गर्न जरुरी छ र??,<br>
+        तिम्रो तारिफ गर्नै जरुरी छ र??,<br>
+        <br>
+
+        के म तिम्रो, तिमी मेरै होइनौं र??,<br>
+        कि हामी एकअर्काकै होइनौं र??,<br>
+        के मेरो काख तिम्रो सिरानी होइन र??,<br>
+        कि मेरो काँध तिम्रो सहारा होइन र??<br>
+        <br>
+
+        किन मेरो हरेक खुशी तिमी, तिम्रो एक खुशीमानी म छैन र??,<br>
+        कि तिमी मेरो साथी मात्र नभई सार्थी होइनौं र??,<br>
+        किन तिम्रो सपना छैन र??,<br>
+        कि मनै तिम्रो सपना होइन र??<br>
+        <br>
+
+        प्रेमी तिमीमा माया देखिदैन,<br>
+        कलिलो तिमीमा कमलोपन देखिदैन,<br>
+        दयालु तिमीमा हृदय देखिदैन,<br>
+        मेरो तिमीमा "तिमी" नै देखिदैन,<br>
+        <br>
+            
+        `
+
     }
+
     ,
     {
-        id: 5,
+        id: 8,
         title: "Lost in my own Delulu",
         author: "Tulsa Bhat",
         description: "The bittersweet world of unrequited love, obsession, and hopeful delusion",    
